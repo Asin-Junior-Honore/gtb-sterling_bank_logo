@@ -1,63 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 #main {
-    background: #ff4500;
-    height: 170px;
-    width: 170px;
-    margin: 50px auto;
-  }
+  background: #ff4500;
+  height: 170px;
+  width: 170px;
+  margin: 50px auto;
+}
 
-  #main #logo1 {
-    height: 45px;
-    background-color: white;
-    width: 30%;
-    display: inline-block;
-    margin: 25px 85px auto;
-  }
+#main #logo1 {
+  height: 45px;
+  background-color: white;
+  width: 30%;
+  display: inline-block;
+  margin: 25px 85px auto;
+}
 
-  #main h2 {
-    text-align: center;
-    font-size: 35px;
-    color: white;
-  }
+#main h2 {
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
 
-  p {
-    text-align: left;
-    font-size: 26px;
-    width: 19%;
-    margin: -25px auto;
-  }
+p {
+  text-align: left;
+  font-size: 26px;
+  width: 19%;
+  margin: -25px auto;
+}
 
-  #bankcontainer2 {
-    display: block;
-    margin: 5rem auto;
-    width: 20%;
-  }
+#bankcontainer2 {
+  display: block;
+  margin: 5rem auto;
+  width: 20%;
+}
 
-  #main2 {
-    background-color: red;
+#main2 {
+  background-color: red;
 
-    height: 95px;
-    width: 95px;
-    border-radius: 50%;
-  }
+  height: 95px;
+  width: 95px;
+  border-radius: 50%;
+}
 
-  #main2 #logo2 {
-    background-color: white;
-    height: 30px;
-    width: 30px;
-    display: inline-block;
-    margin: 15px 48px;
-    border-radius: 50%;
-  }
+#main2 #logo2 {
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  margin: 15px 48px;
+  border-radius: 50%;
+}
 
-  #para2 {
-    display: inline;
-    position: relative;
-    top: -4rem;
-    left: 6.6rem;
-    font-size: 50px;
-  }
+#para2 {
+  display: inline;
+  position: relative;
+  top: -4rem;
+  left: 6.6rem;
+  font-size: 50px;
+}
 
-  #cousera {
-    background-color: blue;
-
-  }
+#cousera {
+  background-color: blue;
+}
